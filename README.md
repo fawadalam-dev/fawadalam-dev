@@ -21,13 +21,13 @@
 - 🌱 I’m currently learning **Advanced JavaScript, APIs, and System Design**
 - 👯 I’m looking to collaborate on [Restaurant Chatbot](https://restaurants-chatbot.vercel.app/)
 - 🤝 I’m looking for help with [Ramadan Calendar](https://ramadan-calendar-phi.vercel.app/)
-- 👨‍💻 Check out all my projects [here](https://portfolio-ruby-three-u2c6736kz3.vercel.app/)
+- 👨‍💻 Check out all my projects on [GitHub](https://github.com/fawadalam-dev) or my [portfolio](https://portfolio-ruby-three-u2c6736kz3.vercel.app/)
 - 💬 Ask me about **JavaScript, HTML, CSS, APIs, React.js, Bootstrap**
 - 📫 How to reach me: **fawadalam5813@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/fawadalam-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/fawadalam-dev/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://fb.com/fwdalam5813" target="_blank">
